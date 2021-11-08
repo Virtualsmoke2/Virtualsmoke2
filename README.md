@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Virtualsmoke2
-- 👀 I’m interested in Games
+- 🎮 Interested in VideoGames, Data Analysis, Math
 - 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
