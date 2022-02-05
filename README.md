@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @Virtualsmoke2
-- 🎮 Interested in VideoGames, Data Analysis, Math
-- 🌱 I’m currently learning Computer Science
-- 📫 How to reach me ...
-
-<!---
-Virtualsmoke2/Virtualsmoke2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hello there, This is Matthew
+- 🎓 Degree in software engineering
+- 📊 Interested Data Analysis, Math, Programming
+- 🎮 70% of my body is made up of Videogames 
+- 💻 I’m currently learning Computer Science at University
+- 💾 currently: internship at eng.it as big data developer
