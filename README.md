@@ -3,4 +3,4 @@
 - 📊 Interested Data Analysis, Math, Programming
 - 🎮 70% of my body is made up of Videogames 
 - 💻 I’m currently learning Computer Science at University
-- 💾 currently: internship at eng.it as big data developer
+- 💾 currently: internship at eng.it as solution developer
