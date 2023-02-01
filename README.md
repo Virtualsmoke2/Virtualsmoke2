@@ -1,6 +1,5 @@
-- 👋 Hello there, This is Matthew
-- 🎓 Degree in software engineering
-- 📊 Interested Data Analysis, Math, Programming, Software Development
-- 🎮 70% of my body is made up of Videogames 
-- 💻 I’m currently learning Computer Science at University
-- 💾 internship at eng.it as solution developer from Feb 2022 to June 2022
+- 👋 Hello there, This is Matthew!
+- 🎓 Master in Software Engineering.
+- 📊 Interested Data Analysis, Programming, Software Development and Computer Science.
+- 🎮 70% of my body is made of Videogames.
+- 💾 Data Engineer at eng.it from Oct 2022.
