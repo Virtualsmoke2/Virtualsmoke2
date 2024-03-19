@@ -2,4 +2,4 @@
 - 🎓 Master in Software Engineering.
 - 📊 Interested Data Analysis, Programming, Software Development and Computer Science.
 - 🎮 70% of my body is made of Videogames.
-- 💾 Data Engineer at eng.it from Oct 2022.
+- 💾 Software Engineer at eng.it from Oct 2022.
